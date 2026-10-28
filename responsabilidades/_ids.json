@@ -1,0 +1,8 @@
+{
+  "01-po.md": { "id": "01430579-21B1-479B-AC49-F998360850BE", "name": "PO" },
+  "02-dev.md": { "id": "B3938D22-D2D7-4843-AC17-1885C6FB12A4", "name": "Dev" },
+  "03-qa.md": { "id": "3AE40C78-235C-4A36-BD43-41DB45397583", "name": "Q.A." },
+  "04-tech-lead.md": { "id": "C9E881FC-08F5-4239-B03E-5BDCE8108144", "name": "Tech Lead" },
+  "05-ux-ui.md": { "id": "6233C0D7-0C6C-4D81-A324-E084C0E6EADD", "name": "UX/UI" },
+  "06-x9.md": { "id": "CCA4CDA8-A364-4820-90EE-6F2A903A7515", "name": "X9" }
+}

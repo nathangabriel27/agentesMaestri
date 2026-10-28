@@ -1,0 +1,4 @@
+# Acrescente ao .gitignore de cada projeto.
+# O Maestri copia as Responsabilidades para esta pasta ao abrir cada terminal,
+# com caminhos absolutos da sua máquina. Não deve ir para o repositório.
+.maestri/

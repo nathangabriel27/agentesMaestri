@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(./.env)",
+      "Read(./.env.*)",
+      "Read(**/.env)",
+      "Read(**/.env.*)",
+      "Bash(git push --force:*)",
+      "Bash(git push -f:*)",
+      "Bash(git push --force-with-lease:*)",
+      "Bash(gh repo delete:*)"
+    ],
+    "ask": [
+      "Bash(gh pr merge:*)",
+      "Bash(git push origin main:*)",
+      "Bash(git push origin develop:*)",
+      "Bash(git push origin homolog:*)",
+      "Bash(git push origin production:*)",
+      "Bash(git reset --hard:*)",
+      "Bash(wrangler deploy:*)",
+      "Bash(wrangler pages deploy:*)",
+      "Bash(supabase db push:*)",
+      "Bash(supabase secrets set:*)",
+      "Bash(gh secret set:*)"
+    ]
+  }
+}
