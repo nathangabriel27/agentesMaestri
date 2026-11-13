@@ -12,6 +12,8 @@
     ],
     "ask": [
       "Bash(gh pr merge:*)",
+      "Bash(maestri floor land:*)",
+      "Bash(maestri floor delete:*)",
       "Bash(git push origin main:*)",
       "Bash(git push origin develop:*)",
       "Bash(git push origin homolog:*)",
